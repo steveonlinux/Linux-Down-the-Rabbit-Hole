@@ -1,0 +1,70 @@
+*Use mdBook rust program
+dedication
+foreword/introduction
+	*Use cases
+	* Why imporatnt as a student
+	* Why important in the industry 
+	* why you need to read
+
+chapter 1: Important Fundamentals and Definitions
+	* History of Unix and Linux
+	* What Linux is
+	* Unix Philospohy: Portability and extensibility
+		* Streams, Redirection, and Pipes
+		* Everything is a file
+	* Distrobutions
+	* Display Servers, Graphical Shells, DEs, and Window Managers
+	* Shells, Terminals, and Terminal Emulators
+	* Utilities, Commands, and Programs
+	* Package Managers
+	* Bootloaders
+	* BIOS vs. UEFI
+	* Partitions
+	* Filesystems
+
+chapter 2: Installation
+	* Distrobutions: Families and differences and misconceptions
+	* Hardware Support(Drivers)
+	* Graphical / Textual Installers
+	* Partitioning and Filesystems and UEFI and BIOS
+	* Users and passwords
+	* The Superuser
+
+booting:
+
+chapter 3: Utilizing Terminals, Terminal Emulators, Shells, and the Command Line
+	* Difference between the 4
+	* Shell options
+	* POSIX standards
+	* Commands are Programs
+	* Critical Commands 
+		* Syntax
+		* Traverse the filesystem
+		* Help
+		* Access information
+		* Misc
+	* Switches / Options
+	* Streams, Pipes, and Redirections
+	* Text Editors
+	* Scripting
+
+chapter 4: Filesystems, File Structures, Permissions, and Groups
+	* Tree Structures and file systems
+	* File System Options
+	* What a file actually is
+	* Everthing is a file and text
+	* Useful commands for inspecting and writing files
+	* Inodes
+	* Users
+	* Groups
+	* File Permissions
+
+chapter 5: Init Systems and Processes
+	* What an init system is
+	* What a process is
+	* Init system options
+	* Syntax
+	* Important commands
+		* Killing process
+		* Niceness
+		* etc.
