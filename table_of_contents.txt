@@ -1,4 +1,4 @@
-*Use mdBook rust program
+*Use mdBook rust program * Potential Titles: Down the Rabbit Hole
 dedication
 foreword/introduction
 	*Use cases
@@ -6,33 +6,42 @@ foreword/introduction
 	* Why important in the industry 
 	* why you need to read
 
-chapter 1: Important Fundamentals and Definitions
+chapter : Important Fundamentals and Definitions
 	* History of Unix and Linux
 	* What Linux is
 	* Unix Philospohy: Portability and extensibility
 		* Streams, Redirection, and Pipes
 		* Everything is a file
 	* Distrobutions
+	* The Superuser
 	* Display Servers, Graphical Shells, DEs, and Window Managers
 	* Shells, Terminals, and Terminal Emulators
 	* Utilities, Commands, and Programs
+	* POSIX
 	* Package Managers
 	* Bootloaders
 	* BIOS vs. UEFI
 	* Partitions
 	* Filesystems
+	* Services
+	* Ports
+	* Protocol
 
-chapter 2: Installation
+chapter : Installation
 	* Distrobutions: Families and differences and misconceptions
 	* Hardware Support(Drivers)
 	* Graphical / Textual Installers
+	* Partition Tables
 	* Partitioning and Filesystems and UEFI and BIOS
 	* Users and passwords
 	* The Superuser
 
-booting:
+chapter : Booting
+	*Boot Loaders
+	* UEFI vs 
+	*efistub
 
-chapter 3: Utilizing Terminals, Terminal Emulators, Shells, and the Command Line
+chapter : Utilizing Terminals, Terminal Emulators, Shells, and the Command Line
 	* Difference between the 4
 	* Shell options
 	* POSIX standards
@@ -48,7 +57,14 @@ chapter 3: Utilizing Terminals, Terminal Emulators, Shells, and the Command Line
 	* Text Editors
 	* Scripting
 
-chapter 4: Filesystems, File Structures, Permissions, and Groups
+chapter : shell scripting
+	* POSIX
+	* Shell Options and Differrences
+	* Calling Interpreter (command vs. shebang)
+	* Syntax
+	* Logic
+
+chapter : Filesystems, File Structures, Permissions, and Groups
 	* Tree Structures and file systems
 	* File System Options
 	* What a file actually is
@@ -59,12 +75,36 @@ chapter 4: Filesystems, File Structures, Permissions, and Groups
 	* Groups
 	* File Permissions
 
-chapter 5: Init Systems and Processes
+chapter : Init Systems and Processes
 	* What an init system is
 	* What a process is
+	* What a service is
 	* Init system options
-	* Syntax
+	* Syntax (Focus on SystemD)
+	* runlevels
 	* Important commands
 		* Killing process
 		* Niceness
 		* etc.
+	*Scheduling (Cron Jobs)
+
+chapter: Interacting with the kernel
+	*Shells
+	*Modules(what they are)
+	*Loading
+	*Unloading
+	*etc.
+
+chapter: Networking
+	*What a network is
+	*OSI
+	*Services
+	*Ports
+	*Hostnames
+	*Remote Access
+	*Inspection
+		*Network Host Lookup
+		*DNS
+	*DHCP
+	
+chapter: 
