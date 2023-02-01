@@ -19,6 +19,7 @@ chapter : Important Fundamentals and Definitions
 	* Utilities, Commands, and Programs
 	* POSIX
 	* Package Managers
+	* SystemD
 	* Bootloaders
 	* BIOS vs. UEFI
 	* Partitions
@@ -26,6 +27,7 @@ chapter : Important Fundamentals and Definitions
 	* Services
 	* Ports
 	* Protocol
+	****Stucture should reflect book
 
 chapter : Installation
 	* Distrobutions: Families and differences and misconceptions
@@ -38,7 +40,8 @@ chapter : Installation
 
 chapter : Booting
 	*Boot Loaders
-	* UEFI vs 
+	* Boot Loader Options
+	* UEFI vs BIOS
 	*efistub
 
 chapter : Utilizing Terminals, Terminal Emulators, Shells, and the Command Line
@@ -54,7 +57,9 @@ chapter : Utilizing Terminals, Terminal Emulators, Shells, and the Command Line
 		* Misc
 	* Switches / Options
 	* Streams, Pipes, and Redirections
+	* Regex
 	* Text Editors
+	* Multiplexers
 	* Scripting
 
 chapter : shell scripting
@@ -64,7 +69,7 @@ chapter : shell scripting
 	* Syntax
 	* Logic
 
-chapter : Filesystems, File Structures, Permissions, and Groups
+chapter : Filesystems, File Structures, Permissions, and Groups **Move up 1
 	* Tree Structures and file systems
 	* File System Options
 	* What a file actually is
@@ -81,6 +86,7 @@ chapter : Init Systems and Processes
 	* What a service is
 	* Init system options
 	* Syntax (Focus on SystemD)
+	* SystemD / SysV Dive
 	* runlevels
 	* Important commands
 		* Killing process
@@ -94,17 +100,49 @@ chapter: Interacting with the kernel
 	*Loading
 	*Unloading
 	*etc.
+	*Choosing Kernel at Boot
+
+chapter: System Inspection and logging
+	*Ring Buffers
+	*dmesg
+	*journaling
+	*journal options
+	*tops, glances, system monitors
+	* /proc
+	* network inspection
 
 chapter: Networking
 	*What a network is
 	*OSI
 	*Services
 	*Ports
+	*Protocols
 	*Hostnames
 	*Remote Access
+	*Remote File Transfer
 	*Inspection
 		*Network Host Lookup
 		*DNS
 	*DHCP
-	
-chapter: 
+
+chapter: Firewalls
+	*What a firewall is
+	*Firewall options
+		ufw
+		firewalld
+	*How to configure a firewall
+		
+
+chapter: Servers
+	*What a server is
+	*Types of servers
+		ftp/sftp / nas
+		media
+		authentication
+		http/https
+	*Server Stacks
+	*How to configure a server
+
+***LINKS***
+crontap: https://tool.crontap.com/cronjob-debugger
+permissions calculator: https://rubendougall.co.uk/projects/permissions-calculator/
