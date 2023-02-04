@@ -143,6 +143,9 @@ chapter: Servers
 	*Server Stacks
 	*How to configure a server
 
+chapter: important programs, utilities, and projects
+	*
+
 ***LINKS***
 crontap: https://tool.crontap.com/cronjob-debugger
 permissions calculator: https://rubendougall.co.uk/projects/permissions-calculator/
