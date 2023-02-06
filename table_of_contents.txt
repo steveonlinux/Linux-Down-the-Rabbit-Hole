@@ -44,6 +44,9 @@ chapter : Booting
 	* UEFI vs BIOS
 	*efistub
 
+Linux on the Desktop:
+
+
 chapter : Utilizing Terminals, Terminal Emulators, Shells, and the Command Line
 	* Difference between the 4
 	* Shell options
