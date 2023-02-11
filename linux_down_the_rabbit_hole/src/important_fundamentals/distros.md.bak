@@ -1,0 +1,42 @@
+# Distributions
+
+## What is a distribution?
+A software distribution or *distro* is a version of that software that has been altered or comes with a collection of predecided and curated components or other software out of the box. Many popular programs from web browser, to text editors, to oeprating systems have various distros that can be chosen from. The process of creating a distribution of software can be called *forking*, becuase that software is now forking or branching off into something else. And maybe that fork will be forked itself. This process of creating and forking new distros of software can create a tree like structure with branches spanning out from other branches based on the distros' familial relationships. 
+
+## Linux Distributions
+And Linux is definitly no exception. There are countless distros, sometimes referred to as *flavors*, currently in active development and maittenance. The vast amount of distros can be daunting and even parallyzing to a new suer, but it seems that these sentiments arise from misconceptions regarding the differences is distros.
+
+![distros](./imgs/distros.svg)
+*Depiction of the vast tree of Linux distributions that makes you scroll a lot*
+
+The above image that depicts the family tree of Linux distros lays out multiple *main* or *root* distros, as in they are not based on anyhting else, and have many desendants. Generally, the most relevant main distros are: 
+
+* Debian
+* Arch
+* Red Hat
+
+These three distros and their derivatives are widely used by larges enterpises, companies, and individual users. Furhtermore, there are *independent* distros that are not based on anything, and ahve very unique and esoteric quirks. So there are quite a few options, but how do you know which to choose? 
+
+## The Differences
+Most distributions are going to have aesthetic and functional differences between the graphical use rinterfaces that come pre-installed on the system. However, in many cases this is simply an aesthetic difference that can be changed as distros often support multiple graphica lenvironemtns. You will learn mopre about graphical user enviornments or *GUIs* in the later chapter: [Elements of a Linux Graphical User Interface](). This is aklso true for most software that is installed by default on a distro; it can simply be uninstalled or replaced. Beyond these asesthic and more ephermeral differences, there are three more non trivial differences between distros:
+
+* Update Delivery
+* Package Availability
+* Initilization System
+
+### Update Delivery 
+There are three types of software update delivery paradigms on Linux. There is *rolling release*, *fixed release*, and *semi-rolling release*. A fixed release distro such as Red Hat or Debian have versions that are updated anually along with software repositories. Usually avalable software on these distros can be relativly dated. A rolling realse distro however does not have versions. Instead the lates software is avaialble as it become available. In this case you have access to the latest versions of software. And a semi-rolling release is a combination of the two, where a mojor update is rolled out anually, but users have access to the latest software in *most* cases. All this being said, distros that are fixed usually are more *stable* and more free of bugs, issues, and conflicts, and suited for use on servers. 
+
+### Package Avaiability
+Distros differ in that some have more programs or *packages* available for install than other. This is becuase those who maintain the distro have made that software aviaiuble within that distro's *repositories*. You will learn more about packages and software repositoreies in the later chapter [Packaging Systems & Package Management]().
+
+### Initilization Systems
+Some distros have different initilization or *init* systems. The most prominent init system is SystemD. Other init systems exist, but are found on systems far less today. You wil learn about init systems i nthe later chapter: []().
+
+
+## Recommendations
+This book will be using Fedora for all examples and snippets. Fedora is an excellent chocie becuase it is well supported, has fresh packages, and a welcoming graphical user interface by default for new suers. However, you can choose any distro you want. Some are less beginner friendly and will differ in a few ways, but the differences won't be vast enough to prevent you from following along using another distro if you refer to your distro's documentation.
+
+Here is a table of some possible options for you.
+
+
