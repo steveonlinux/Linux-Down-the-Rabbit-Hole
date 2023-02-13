@@ -41,7 +41,7 @@ Here is a table of some possible options for you.
 
 | Main Distro | Update Delivery | Popular Distros Derived From |
 |---------|---------|----------|
-| Debian     | Fixed & Rolling| Ubuntu, Linux Mint, Pop OS!, MX Linux|
+| Debian     | Fixed or Rolling| Ubuntu, Linux Mint, Pop OS!, MX Linux|
 |Arch|Rolling|Manjaro, Garuda, Arcolinux|
 |Red Hat|Fixed|Fedora*, Rocky Linux|
 *Fedora is semi-rolling
