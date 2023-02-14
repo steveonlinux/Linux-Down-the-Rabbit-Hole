@@ -1,1 +1,3 @@
 * mention sym links for configuting shell and default shell for shebang --> link to example in link chapter for setting default shell
+
+* Booting over a network

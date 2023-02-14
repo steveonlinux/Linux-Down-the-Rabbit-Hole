@@ -1,3 +1,28 @@
 # Obtaining Linux Installation Media
 
 ## Installation Mediums
+Linux can be installed through a number of mediums. It can even be installed over a network! However it is most commonly installed by home users via storage media like USB or SD card. A bootable Linux installation *image* is written to the storage media, which can then be booted from to install Linux. The image file is usually an optical disk image; it essentially is the data that would be on a CD. Storage media that has a Linux image written to it is referred to as being *live* because you can use and try the operating system before you install it! The two types of image file types available are:
+* .iso
+* .img
+## Obtaining Image
+You can find an image for installation on the website of your respective distro. For instance, if you wished to install Fedora, you would head to <https://getfedora.org/en/workstation/download/>. You can easily find the website where your distro of choice offers images for download using any search engine. 
+
+![fedora](./imgs/fedora.jpg)
+*The Fedora install page*
+
+The Fedora install webpage offers multiple images for download, for different system architectures. If you are on a modern desktop pc, x86\_64 will be fine. Once the image is downloaded, it then needs to be written to a USB if you are installing Linux on a physical machine. If you are installing to a virtual machine, you can just use the image you have. Virtual machines are discussed in the later chapter: [Virtualization]().
+
+## Writing Image to USB
+There are a few programs that can be used on different operating systems to write images to USBs and SD cards:
+* balenaEtcher (Linux, MacOS, Windows)
+* Rufus (Windows)
+* dd (Linux, MacOS) *For advanced users only
+
+BalenaEtcher is recommended due to its user-friendly interface.
+
+![balena](./imgs/balena.jpg)
+*Etcher's user interface*
+
+
+Once you have the image written to your storage media, you must boot your computer from it. This is discussed in the following section.
+
