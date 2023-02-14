@@ -13,3 +13,12 @@ On modern day PCs there are two types of firmwares: the legacy BIOS or *Basic In
 
 As you can gleam from the about table, the UEFI and BIOS only support a single, respective *partition table*. You will come to understand partition tables in the following chapter: [Partition Tables](./part.md).
 
+# Selecting Boot Devices
+
+*Boot devices* can be selected from within your UEFI or BIOS. The boot device is the storage device that contains the operating system components that your computer can boot from. For instance, if you wanted to boot from your live Linux USB, you would need the USB to be your boot device. In may UEFI/BIOS interfaces multiple boot device may be selected that boot in order of presence, you may force a boot from a particular device, etc. To access your system's firmware interface, a common convention is to either press `F2` or `Delete` or some combination thereof while your system boots. Consult your device's manual for more information. 
+
+![boot](./imgs/boot.jpg)
+*A UEFI interface where ordered boot devices may be selected.*
+
+Once you are in the firmware interface for your device navigate to select the device that your Linux image has been written to and save and exit. Reboot your computer and you should be met with a Linux Live environment.
+
