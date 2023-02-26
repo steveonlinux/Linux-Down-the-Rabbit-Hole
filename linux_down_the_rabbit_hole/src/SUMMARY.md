@@ -12,7 +12,7 @@
 - [Installation](./install/README.md)
 	- [Obtaining Linux Installation Media](./install/media.md)
 	- [System Firmwares: BIOS vs UEFI](./install/firm.md)
-	- [Live Environments and & Installers](./install/enviro)
+	- [Live Environments & Installers](./install/enviro.md)
 	- [Partition Tables](./install/partt.md)
 	- [Partitioning Drives]()
 - [Booting](./boot/README.md)

@@ -2,5 +2,9 @@
 
 When you successfully boot into your new environment, you will be greeted by desktop new (assuming the distro you chose comes with desktop environment installed).This is the *live environment*. A live environment is a fully functional Linux environment and can be used as such. You can practically do anything you would do on an actual Linux install in a live enviroment, however in the vast majority of cases nothing you do to the system will persist. Most live enviornments are simply a way to "test-drive" the distro before installation.
 
-Beyond everything else that is installed there, an installer will be available that will allow you to permanntly install your Linux distro. There are number of installers that are commonly used by distros, and it is up to the distro developers to chose which they would like for their users, or to develop their own. Installer commonly used by distributions are:
+Beyond everything else that is installed there, an installer will be available that will allow you to permanntly install your Linux distro. There are number of installers that are commonly used by distros, and it is up to the distro developers to chose which they would like for their users, or to develop their own. Installers commonly used by distributions are:
+* Calamares (distro agnostic)
+* Ubiquity (Ubuntu)
+* Anaconda (Fedora)
+* YaST (SUSE)
 

@@ -31,7 +31,7 @@ There are three types of software update delivery paradigms on Linux. There is *
 Distros differ in that some have more programs or *packages* available for install than other. This is because those who maintain the distro have made that software available within that distro's *repositories*. You will learn more about packages and software repositories in the later chapter [Packaging Systems & Package Management]().
 
 ### Initialization Systems
-Some distros have different initialization or *init* systems. The most prominent init system is SystemD. Other init systems exist, but are found on systems far less today. You will learn about init systems in the later chapter: []().
+Some distros have different initialization or *init* systems. The most prominent init system is SystemD. Other init systems exist, but are found on systems far less today. You will learn about init systems in the later chapter: [Initilization Systems & Processes]().
 
 
 ## Recommendations

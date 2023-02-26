@@ -5,7 +5,7 @@ Linux can be installed through a number of mediums. It can even be installed ove
 * .iso
 * .img
 ## Obtaining Image
-You can find an image for installation on the website of your respective distro. For instance, if you wished to install Fedora, you would head to <https://getfedora.org/en/workstation/download/>. You can easily find the website where your distro of choice offers images for download using any search engine. 
+You can find an image for installation on the website of your respective distro. For instance, if you wished to install Fedora for the desktop, you would head to <https://getfedora.org/en/workstation/download/>. You can easily find the website where your distro of choice offers images for download using any search engine. 
 
 ![fedora](./imgs/fedora.jpg)
 *The Fedora install page*
