@@ -1,0 +1,112 @@
+2023-03-15 20:03:47 [INFO] (mdbook::book): Book building has started
+2023-03-15 20:03:47 [INFO] (mdbook::book): Running the html backend
+2023-03-15 20:03:47 [INFO] (mdbook::cmd::serve): Serving on: http://localhost:3000
+2023-03-15 20:03:47 [INFO] (mdbook::cmd::watch): Listening for changes...
+2023-03-15 20:03:47 [INFO] (warp::server): Server::run; addr=[::1]:3000
+2023-03-15 20:03:47 [INFO] (warp::server): listening on http://[::1]:3000
+2023-03-15 20:04:08 [INFO] (mdbook::book): Book building has started
+2023-03-15 20:04:08 [INFO] (mdbook::book): Running the html backend
+2023-03-15 20:04:08 [INFO] (mdbook::cmd::serve): Serving on: http://localhost:3000
+2023-03-15 20:04:08 [INFO] (mdbook::cmd::watch): Listening for changes...
+2023-03-15 20:04:08 [INFO] (warp::server): Server::run; addr=[::1]:3000
+2023-03-15 20:04:08 [INFO] (warp::server): listening on http://[::1]:3000
+2023-03-15 20:06:53 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/important_fundamentals/abstractions.md"]
+2023-03-15 20:06:53 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-15 20:06:53 [INFO] (mdbook::book): Book building has started
+2023-03-15 20:06:53 [INFO] (mdbook::book): Running the html backend
+2023-03-15 20:07:32 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/important_fundamentals/abstractions.md"]
+2023-03-15 20:07:32 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-15 20:07:32 [INFO] (mdbook::book): Book building has started
+2023-03-15 20:07:32 [INFO] (mdbook::book): Running the html backend
+2023-03-15 20:08:45 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/important_fundamentals/abstractions.md.new"]
+2023-03-15 20:08:45 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-15 20:08:45 [INFO] (mdbook::book): Book building has started
+2023-03-15 20:08:45 [INFO] (mdbook::book): Running the html backend
+2023-03-15 20:14:33 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/install/imgs/install.jpg"]
+2023-03-15 20:14:33 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-15 20:14:33 [INFO] (mdbook::book): Book building has started
+2023-03-15 20:14:33 [INFO] (mdbook::book): Running the html backend
+2023-03-15 20:14:44 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/install/imgs/install_000.jpg"]
+2023-03-15 20:14:44 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-15 20:14:44 [INFO] (mdbook::book): Book building has started
+2023-03-15 20:14:44 [INFO] (mdbook::book): Running the html backend
+2023-03-15 20:21:32 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/install/enviro.md"]
+2023-03-15 20:21:32 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-15 20:21:32 [INFO] (mdbook::book): Book building has started
+2023-03-15 20:21:32 [INFO] (mdbook::book): Running the html backend
+2023-03-19 15:57:25 [INFO] (mdbook::book): Book building has started
+2023-03-19 15:57:25 [INFO] (mdbook::book): Running the html backend
+2023-03-19 15:57:25 [INFO] (mdbook::cmd::serve): Serving on: http://localhost:3000
+2023-03-19 15:57:25 [INFO] (mdbook::cmd::watch): Listening for changes...
+2023-03-19 15:57:25 [INFO] (warp::server): Server::run; addr=[::1]:3000
+2023-03-19 15:57:25 [INFO] (warp::server): listening on http://[::1]:3000
+2023-03-19 15:57:33 [INFO] (mdbook::book): Book building has started
+2023-03-19 15:57:33 [INFO] (mdbook::book): Running the html backend
+2023-03-19 15:57:33 [INFO] (mdbook::cmd::serve): Serving on: http://localhost:3000
+2023-03-19 15:57:33 [INFO] (warp::server): Server::run; addr=[::1]:3000
+2023-03-19 15:57:33 [INFO] (mdbook::cmd::watch): Listening for changes...
+2023-03-19 15:57:33 [INFO] (warp::server): listening on http://[::1]:3000
+2023-03-19 15:59:47 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/imgs"]
+2023-03-19 15:59:47 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 15:59:47 [INFO] (mdbook::book): Book building has started
+2023-03-19 15:59:47 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:01:00 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/SUMMARY.md"]
+2023-03-19 16:01:00 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:01:00 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:01:00 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:01:01 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:01:01 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:01:01 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:01:01 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:09:57 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:09:57 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:09:57 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:09:57 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:10:04 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md.new"]
+2023-03-19 16:10:04 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:10:04 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:10:04 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:10:20 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md", "/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md.bak"]
+2023-03-19 16:10:20 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:10:20 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:10:20 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:11:08 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:11:08 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:11:08 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:11:08 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:18:02 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:18:02 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:18:02 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:18:02 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:20:36 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:20:36 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:20:36 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:20:36 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:27:09 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:27:09 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:27:09 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:27:09 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:28:56 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:28:56 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:28:56 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:28:56 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:36:46 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:36:46 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:36:46 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:36:46 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:48:03 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:48:03 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:48:03 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:48:03 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:48:20 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:48:20 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:48:20 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:48:20 [INFO] (mdbook::book): Running the html backend
+2023-03-19 16:52:45 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 16:52:45 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 16:52:45 [INFO] (mdbook::book): Book building has started
+2023-03-19 16:52:45 [INFO] (mdbook::book): Running the html backend
+2023-03-19 19:21:38 [INFO] (mdbook::cmd::serve): Files changed: ["/home/steve/docs/linux_down_the_rabbit_hole/linux_down_the_rabbit_hole/src/term/common.md"]
+2023-03-19 19:21:38 [INFO] (mdbook::cmd::serve): Building book...
+2023-03-19 19:21:38 [INFO] (mdbook::book): Book building has started
+2023-03-19 19:21:38 [INFO] (mdbook::book): Running the html backend

@@ -1,0 +1,4 @@
+# Common Misconceptions
+
+## Conflation of Terms
+The meaning of the terms terminal, terminal emulator, command line, and shell are often conflated. The uses and definitions of these kinds of programs are very much interlinked. However, they are distinct things and it is important that you udnerstand their differences. If you don't undestand these differences then you will lack a fundamental understanding of how you are communicating with your operating system and computer. Furthermore, misusnserstandings of these softwares will lead to miscommunication and misusnderstanding when communication with others on certain topics. 

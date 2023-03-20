@@ -20,7 +20,7 @@
 	- [GRUB]()
 	- [efiSTUB]()
 - [Terminals, Terminal Emulators, Shells, & the Command Line](./term/README.md)
-	- [Common Misconceptions]()
+	- [Common Misconceptions](./term/common.md)
 	- [Shells & POSIX]()
 	- [Customizing Shell Enviornment]()
 	- [Commands]()

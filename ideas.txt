@@ -3,3 +3,9 @@
 * Booting over a network
 
 * Hardware support section?
+
+* Section on device files
+
+* Section on sessions
+
+* Section on Man Pages
