@@ -9,3 +9,7 @@
 * Section on sessions
 
 * Section on Man Pages
+
+* Section on Runlevels
+
+* Section on hardening

@@ -110,3 +110,27 @@
 2023-03-19 19:21:38 [INFO] (mdbook::cmd::serve): Building book...
 2023-03-19 19:21:38 [INFO] (mdbook::book): Book building has started
 2023-03-19 19:21:38 [INFO] (mdbook::book): Running the html backend
+2023-03-31 11:17:53 [INFO] (mdbook::book): Book building has started
+2023-03-31 11:17:53 [INFO] (mdbook::book): Running the html backend
+2023-03-31 11:17:54 [INFO] (mdbook::cmd::serve): Serving on: http://localhost:3000
+2023-03-31 11:17:54 [INFO] (mdbook::cmd::watch): Listening for changes...
+2023-03-31 11:17:54 [INFO] (warp::server): Server::run; addr=[::1]:3000
+2023-03-31 11:17:54 [INFO] (warp::server): listening on http://[::1]:3000
+2023-04-05 06:56:36 [INFO] (mdbook::book): Book building has started
+2023-04-05 06:56:36 [INFO] (mdbook::book): Running the html backend
+2023-04-05 06:56:36 [INFO] (mdbook::cmd::serve): Serving on: http://localhost:3000
+2023-04-05 06:56:36 [INFO] (mdbook::cmd::watch): Listening for changes...
+2023-04-05 06:56:36 [INFO] (warp::server): Server::run; addr=[::1]:3000
+2023-04-05 06:56:36 [INFO] (warp::server): listening on http://[::1]:3000
+2023-04-05 13:29:47 [INFO] (mdbook::book): Book building has started
+2023-04-05 13:29:47 [INFO] (mdbook::book): Running the html backend
+2023-04-05 13:29:47 [INFO] (mdbook::cmd::serve): Serving on: http://localhost:3000
+2023-04-05 13:29:47 [INFO] (warp::server): Server::run; addr=[::1]:3000
+2023-04-05 13:29:47 [INFO] (warp::server): listening on http://[::1]:3000
+2023-04-05 13:29:47 [INFO] (mdbook::cmd::watch): Listening for changes...
+2023-05-02 09:06:56 [INFO] (mdbook::book): Book building has started
+2023-05-02 09:06:56 [INFO] (mdbook::book): Running the html backend
+2023-05-02 09:06:56 [INFO] (mdbook::cmd::serve): Serving on: http://localhost:3000
+2023-05-02 09:06:56 [INFO] (mdbook::cmd::watch): Listening for changes...
+2023-05-02 09:06:56 [INFO] (warp::server): Server::run; addr=[::1]:3000
+2023-05-02 09:06:56 [INFO] (warp::server): listening on http://[::1]:3000
