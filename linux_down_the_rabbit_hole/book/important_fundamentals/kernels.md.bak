@@ -1,8 +1,0 @@
-# What is a Kernel?
-
-An operating system kernel is essentially software that provides basic services, and manages syttem resources and hardware. The kernerl is the innermost part of the system with the gratest priveldges adn access. This part or space of the system where the kernel resides and operates is called *kernel space*. Whereas the outermost part of the system where a user operates and has access is *userspace* or *userland*. The kernel allows the system, and thus the user, to communicate with the hardware of the computer, as the kernel has access to that hardware via *modules* and *drivers*. Conversely, the kernel also allows hardware to interact with the system.
-
-![kernel](./imgs/simple_layout.png)
-*An **extremely** simplified layout*
-
-This book will not be a deep dive into the kernel. At most you will learn what the kernel is, and how to install drivers and un/load modules. And that Linux is technically only the kernel, and the userspace is a GNU project. Sticklers will (mostly jokingly) refer to our beloved oeprating system as GNU/Linux exclusively. However, in commonm parlance, and for the rest of this book, we will refer to the operating system as Linux.
